@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
-title: D3to's homepage
-description: <a href="/opl-scout/">OPL Scout</a>
+title: Niklas Traser
+description: "Ph.D. student @ RUB"
+lang: de
+# Optional: Profilbild für die Seitenleiste (Datei z. B. unter assets/img/avatar.jpg ablegen)
+# logo: /assets/img/avatar.jpg
+
+exclude:
+  - README.md
